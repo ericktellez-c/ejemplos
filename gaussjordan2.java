@@ -5,7 +5,7 @@ public class GaussJordan {
         double[][] matrizAumentada = {
             {5.0, -0.1, -0.2, 7.85},
             {2.1, 7.0, -0.3, -19.3},
-            {0.9, -0.2, 10.0, 71.4}
+            {0.3, -0.2, 10.0, 71.4}
         };
 
         // Resuelve el sistema
@@ -54,4 +54,5 @@ public class GaussJordan {
         }
     }
 }
+
 
